@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35b34cee.chunk.css",
+    "main.js": "/static/js/main.1771dbaf.chunk.js",
+    "main.js.map": "/static/js/main.1771dbaf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2aa5d5fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2aa5d5fd.js.map",
+    "static/js/2.33998cab.chunk.js": "/static/js/2.33998cab.chunk.js",
+    "static/js/2.33998cab.chunk.js.map": "/static/js/2.33998cab.chunk.js.map",
+    "static/js/3.ee961a2a.chunk.js": "/static/js/3.ee961a2a.chunk.js",
+    "static/js/3.ee961a2a.chunk.js.map": "/static/js/3.ee961a2a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.35b34cee.chunk.css.map": "/static/css/main.35b34cee.chunk.css.map",
+    "static/js/2.33998cab.chunk.js.LICENSE.txt": "/static/js/2.33998cab.chunk.js.LICENSE.txt",
+    "static/media/RPG.ca912609.png": "/static/media/RPG.ca912609.png",
+    "static/media/java.6fb54175.png": "/static/media/java.6fb54175.png",
+    "static/media/job_board.aad41a20.png": "/static/media/job_board.aad41a20.png",
+    "static/media/pos.7a538f51.png": "/static/media/pos.7a538f51.png",
+    "static/media/tyler.e5136d97.png": "/static/media/tyler.e5136d97.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa5d5fd.js",
+    "static/js/2.33998cab.chunk.js",
+    "static/css/main.35b34cee.chunk.css",
+    "static/js/main.1771dbaf.chunk.js"
+  ]
+}
