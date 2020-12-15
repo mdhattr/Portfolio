@@ -9,12 +9,12 @@ const projects={
     flexDirection: 'row',
     alignItems: 'flex-start',
     padding: '0px',
-
+    paddingRight:'15px',
     
     position: 'relative',
 
 
-    left: '15px',
+    // left: '15px',
     top: '106px',
 
 }

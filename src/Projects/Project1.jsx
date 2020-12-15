@@ -10,7 +10,7 @@ const project1={
     paddingBottom: '20px',
 
     position: 'static',
-    
+
     height: '374px',
     left: '0px',
     top: '0px',
@@ -31,7 +31,8 @@ const project1={
 }
 const image = {
     position: 'static',
-    width: '350px',
+    width:'100%',
+    maxWidth: '350px',
     height: '155px',
     left: 'calc(50% - 350px/2)',
     top: '0px',

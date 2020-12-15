@@ -31,21 +31,14 @@ const project3={
 }
 const image = {
     position: 'static',
-    width: '350px',
+    width:'100%',
+    maxWidth: '350px',
     height: '155px',
     left: 'calc(50% - 350px/2)',
     top: '0px',
     opacity: '0.9',
 
-    /* Inside Auto Layout */
 
-    flex: 'none',
-    order: '0',
-    flexGrow: '0',
-    marginTop: '0px ',
-    marginBottom: '0px ',
-    marginLeft: ' 28px',
-    marginRight: ' 28px',
 }
 const content2={
     position: 'static',

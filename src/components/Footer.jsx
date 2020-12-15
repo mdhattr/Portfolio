@@ -4,13 +4,14 @@ import '../App.css'
 const footer = {
     height: '82px',
     background:'#05030F',
-    position: 'absolute',
+    paddingTop:'5px',
+
 }
 const text = {
 
-    
+    marginTop:'30px',
     height: '18px',
-
+    marginBlockStart:'0px',
     
     
 

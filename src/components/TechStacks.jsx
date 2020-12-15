@@ -9,7 +9,7 @@ const techStacks={
     paddingTop: '80px',
     paddingBottom: '80px',
 
-    position: 'absolute',
+    // position: 'absolute',
     
     
     left: '0px',

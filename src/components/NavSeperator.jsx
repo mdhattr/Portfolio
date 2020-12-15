@@ -5,7 +5,7 @@ const navSeperator={
 
     height: '2px',
     
-    top: '111px',
+    top: '93px',
 
 
     background:'#3A4062'

@@ -9,16 +9,13 @@ const heroContent={
     alignItems: 'center',
     padding: '0px',
 
-    position: 'absolute',
-    width: '531px',
-    height: '292px',
-    left: '85px',
-    top: '121px',
+
+
 }
 const heroContentA={
-    position: 'static',
-    width: '528px',
-    height: '176px',
+
+
+
     left: '1.5px',
     top: '0px',
 
@@ -34,9 +31,9 @@ const heroContentA={
 const HeroContent = props => {
     return(
         <div style={heroContent}>
-            <div style={heroContentA}>
+            <div style={heroContentA} className="heroText">
                 <p >Hi, I’m Tyler 👋 </p>
-                <p>Chicago-based software engineer, specializing in</p>
+                <p className="HeroP">Chicago-based software engineer, specializing in</p>
             </div>
             <HeroContentB />
         </div>

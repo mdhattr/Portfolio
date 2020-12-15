@@ -9,11 +9,11 @@ const pythonJavaMERN={
 
     alignItems: 'flex-start',
 
-    position: 'static',
+    // position: 'static',
     
     
-    left: '85px',
-    top: '186px',
+    // left: '85px',
+    // top: '186px',
 
     flex: 'none',
     order: '1',

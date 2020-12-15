@@ -15,7 +15,7 @@ const projects={
     position: 'relative',
 
 
-    left: '15px',
+
     top: '106px',
 
 }

@@ -3,10 +3,7 @@ import Scroll from 'react-scroll'
 
 const about = {
     position: 'static',
-    width: '45px',
-    height: '16px',
-    left: '135px',
-    top: '0px',
+
     cursor:'pointer',
     fontFamily: 'IBM Plex Sans',
     fontStyle: 'normal',
@@ -23,9 +20,7 @@ const about = {
 
     /* Inside Auto Layout */
 
-    flex: 'none',
-    order: '2',
-    flexGrow: '0',
+
     marginRight: '24px'
 }
 const About = props =>{

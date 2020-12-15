@@ -2,10 +2,7 @@ import React from 'react'
 import '../App.js'
 const contact = {
     position: 'static',
-    width: '61px',
-    height: '16px',
-    left: '204px',
-    top: '0px',
+
     cursor:'pointer',
     fontFamily: 'IBM Plex Sans',
     fontStyle: 'normal',
@@ -19,13 +16,7 @@ const contact = {
 
     color: '#C2C7DF',
 
-
-    /* Inside Auto Layout */
-
-    flex: 'none',
-    order: '3',
-    flexGrow: '0',
-    margin: '24px 0px',
+    marginRight:'24px'
 }
 const Contact = props =>{
     const scrollToSection = (e) => {

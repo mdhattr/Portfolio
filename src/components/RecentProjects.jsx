@@ -2,7 +2,7 @@ import React from 'react'
 import Projects from '../Projects/Projects'
 
 const recentProjects={
-    position: 'absolute',
+    // position: 'absolute',
     
 
 
@@ -43,7 +43,7 @@ const RecentProjects = props => {
     return(
         <div id="workButton" style={recentProjects} className="pageContainer C">
             
-            <div  className="container jenky">
+            <div  className="container Projects">
                 <p style={text}>Recent Projects</p>
                 <Projects className='row'/>
             </div>

@@ -2,10 +2,8 @@ import React from 'react'
 
 const skills={
     position: 'static',
-    width: '47px',
-    height: '16px',
-    left: '0px',
-    top: '0px',
+
+
     cursor:'pointer',
     fontFamily: 'IBM Plex Sans',
     fontStyle: 'normal',
@@ -31,7 +29,7 @@ const skills={
 const Skills = props =>{
     const scrollToSection = (e) => {
         const anchor = document.querySelector('#skillsButton')
-        anchor.scrollIntoView({ behavior: 'smooth', block: 'start' })
+        anchor.scrollIntoView({ behavior: 'smooth', block: 'center' })
     };
     return(
         <div style={skills}>

@@ -2,18 +2,19 @@ import React from 'react'
 import PythonJava from './PythonJava'
 import Ampersand from './Ampersand'
 import MERN from './MERN'
+import '../App.css'
 const heroContentB={
     display: 'flex',
-    flexDirection: 'row',
+    flexWrap:'wrap',
     alignItems: 'center',
     padding: '0px',
     marginTop:'120px',
-    marginLeft:'-35px',
+
 
 
     position: 'static',
-    width: '531px',
-    height: '76px',
+
+
     top: '216px',
 
 

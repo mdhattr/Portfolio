@@ -1,11 +1,8 @@
 import React from 'react'
 const nameText={
-    position: 'absolute',
-    width: '340px',
-    height: '21px',
-    left: '85px',
-    top: '32px',
 
+    marginTop:'45px',
+    marginLeft:'30px',
     fontFamily: 'IBM Plex Sans',
     fontStyle: 'normal',
     fontWeight: '600',
@@ -20,7 +17,7 @@ const nameText={
 const Name = props => {
     return(
         <div >
-            <p style={nameText}>TYLER HATTER</p>
+            <p style={nameText}>TYLER</p>
         </div>
         
     )
