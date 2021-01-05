@@ -1,5 +1,6 @@
 import React from 'react'
 import HeroContent from './HeroContent'
+import '../App.css'
 const hero={
     // position: 'absolute',
     
@@ -11,8 +12,11 @@ const hero={
 }
 const Hero = props => {
     return(
-        <div style={hero} >
-            <HeroContent />
+        <div style={hero} className="pageContainer">
+            <div className='row'>
+                <HeroContent />
+            </div>
+            
         </div>
         
     )

@@ -8,14 +8,14 @@ const heroContentB={
     flexWrap:'wrap',
     alignItems: 'center',
     padding: '0px',
-    marginTop:'120px',
+    marginTop:'10px',
 
 
 
     position: 'static',
 
 
-    top: '216px',
+
 
 
 }
