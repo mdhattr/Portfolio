@@ -9,15 +9,6 @@ const heroContentB={
     alignItems: 'center',
     padding: '0px',
     marginTop:'10px',
-
-
-
-    position: 'static',
-
-
-
-
-
 }
 const HeroContentB = props => {
     return(

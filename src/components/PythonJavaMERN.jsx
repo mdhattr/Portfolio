@@ -5,20 +5,7 @@ import MERN from '../techStackComponents/MERN'
 import '../App.css'
 
 const pythonJavaMERN={
-
-
     alignItems: 'flex-start',
-
-    // position: 'static',
-    
-    
-    // left: '85px',
-    // top: '186px',
-
-    flex: 'none',
-    order: '1',
-    flexGrow: '0',
-
 }
 
 const PythonJavaMERN = props => {

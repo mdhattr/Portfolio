@@ -6,11 +6,8 @@ import NavSeperator from './NavSeperator';
 
 const bar = {
     position: "fixed",
-
     zIndex:"9000",
-
     height:'93px',
-
     background: "#0D0828",
     display:'flex',
 }

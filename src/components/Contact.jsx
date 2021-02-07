@@ -1,21 +1,15 @@
 import React from 'react'
 import '../App.js'
 const contact = {
-    position: 'static',
-
     cursor:'pointer',
     fontFamily: 'IBM Plex Sans',
     fontStyle: 'normal',
     fontWeight: '600',
     fontSize: '12px',
     lineHeight: '16px',
-    /* identical to box height */
-
     letterSpacing: '0.1em',
     textTransform: 'uppercase',
-
     color: '#C2C7DF',
-
     marginRight:'24px'
 }
 const Contact = props =>{

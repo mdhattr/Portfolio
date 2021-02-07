@@ -2,19 +2,12 @@ import React from 'react'
 import '../App.css'
 
 const footer = {
-    height: '82px',
+    height: '50px',
     background:'#05030F',
     paddingTop:'5px',
 
 }
 const text = {
-
-    marginTop:'30px',
-    height: '18px',
-    marginBlockStart:'0px',
-    
-    
-
     fontFamily: 'IBM Plex Sans',
     fontStyle: 'normal',
     fontWeight: 'normal',
@@ -22,9 +15,7 @@ const text = {
     lineHeight: '18px',
     textAlign: 'center',
     letterSpacing: '0.1em',
-
     color: '#8E94B8',
-
 }
 const Footer = props => {
     return(

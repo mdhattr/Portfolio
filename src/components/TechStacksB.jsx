@@ -8,13 +8,6 @@ const techStacks={
     alignItems: 'center',
     paddingTop: '80px',
     paddingBottom: '80px',
-
-    // position: 'absolute',
-    
-    
-    left: '0px',
-    
-
     background: '#05030F',
 }
 

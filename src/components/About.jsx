@@ -2,7 +2,7 @@ import React from 'react'
 import Scroll from 'react-scroll'
 
 const about = {
-    position: 'static',
+
 
     cursor:'pointer',
     fontFamily: 'IBM Plex Sans',
@@ -10,16 +10,12 @@ const about = {
     fontWeight: '600',
     fontSize: '12px',
     lineHeight: '16px',
-    /* identical to box height */
+
 
     letterSpacing: '0.1em',
     textTransform: 'uppercase',
 
     color: '#C2C7DF',
-
-
-    /* Inside Auto Layout */
-
 
     marginRight: '24px'
 }

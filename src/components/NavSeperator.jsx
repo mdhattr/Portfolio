@@ -2,12 +2,8 @@ import React from 'react'
 import '../App.css'
 const navSeperator={
     position: 'absolute',
-
     height: '2px',
-    
     top: '93px',
-
-
     background:'#3A4062'
 }
 const NavSeperator = props => {

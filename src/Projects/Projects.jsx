@@ -5,19 +5,11 @@ import Project3 from './Project3'
 import '../App.css'
 
 const projects={
-
-
     flexDirection: 'row',
     alignItems: 'flex-start',
-    padding: '0px',
-
-    
     position: 'relative',
-
-
-
     top: '106px',
-
+    paddingBottom: '60px',
 }
 
 const Projects = props => {
